@@ -1,5 +1,12 @@
 {
     "fullFeature-false-migrate": 1,
     "serviceStop-migrate": 0,
-    "fullFeature": true
+    "fullFeature": true,
+    "ad":{
+        "gold":false,
+        "native":{
+            "native1":1,
+            "native2":2
+        }
+    }
 }
