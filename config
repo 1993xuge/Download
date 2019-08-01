@@ -1,6 +1,6 @@
 {
     "full_feature_false_migrate": true,
-    "service_stop_migrate": true,
+    "service_stop_migrate": false,
     "migrate": {
         "pkg_name": "xyz.instamusic.instamusic",
         "alert": {
